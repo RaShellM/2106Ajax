@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<!--le bootstrap-->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<title>Ajax 21/06</title>
+</head>
+
+<body>
+<div>
+	<div>
+		<h1>Titre </h1>
+			<p> HEY <span id='prenom'>tonprenom</span>, ici on test ajax en localhost</p>
+
+		<h2>Si tu me click, je disparais</h2>
+	</div>
+
+	
+	<div class='bouton'>
+		<button class="btn btn-primary" id='updatePremier'>mise à jour du contenu</button>
+		<button class="btn btn-danger" id='updateDeuxieme'>deuxieme mise à jour</button>
+		<button class="btn btn-info" id='ajout'>ajouter des cases</button>
+		<button class="btn btn-info" id='ajout2'>ajouter infos générales</button>
+	</div>
+
+
+	<div class="mouv row">
+		<div class="premier">	
+			<p>Je veux mettre à jour ce texte avec une requiête Ajax. </p>
+		</div>
+
+		<div class="deuxieme">
+			<p>je veux mettre une seconde update </p>
+		</div>
+
+		<div class="troisieme">
+			<img src="giselle.jpg">
+		</div>
+
+		<div class="quatrieme">
+			<p>je ne veux pas toucher à cette partie du html. </p>
+		</div>
+
+		<div class="cinquieme">
+			<p>je ne veux pas toucher à cette partie du html. </p>
+		</div>
+
+		<div class="sixieme">
+			<p>je ne veux pas toucher à cette partie du html. </p>
+		</div>
+	</div>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+
+</body>
+</html>

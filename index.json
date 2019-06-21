@@ -1,0 +1,40 @@
+
+
+
+[
+  {
+    "age": 21,
+    "name": "Ester Hayden",
+    "gender": "female",
+    "email": "esterhayden@isologica.com",
+    "phone": "+1 (920) 579-3506"
+  },
+  {
+    "age": 31,
+    "name": "Nikki Ferguson",
+    "gender": "female",
+    "email": "nikkiferguson@isologica.com",
+    "phone": "+1 (953) 441-3523"
+  },
+  {
+    "age": 26,
+    "name": "Stafford Petty",
+    "gender": "male",
+    "email": "staffordpetty@isologica.com",
+    "phone": "+1 (959) 479-2447"
+  },
+  {
+    "age": 31,
+    "name": "Jacobson Bridges",
+    "gender": "male",
+    "email": "jacobsonbridges@isologica.com",
+    "phone": "+1 (826) 447-2813"
+  },
+  {
+    "age": 37,
+    "name": "Fry Jimenez",
+    "gender": "male",
+    "email": "fryjimenez@isologica.com",
+    "phone": "+1 (931) 416-3661"
+  }
+]

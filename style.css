@@ -1,0 +1,61 @@
+div
+{
+	width : 200px;
+	height : 200px;
+	background-color: black;
+	float:left;
+
+	/*display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+	flex-direction: column;
+}
+div p
+{
+ 	margin:auto;
+ 	*/
+}
+.btn
+{
+	width:80%;
+	max-height: 50px;
+}
+
+/*.bouton
+{
+	justify-content: center;
+	margin : 0px !important;
+}*/
+
+.premier
+{
+	font-weight: bold;
+	background-color: red;
+}
+.deuxieme
+{
+	background-color: grey;
+	display:flex;
+}
+.troisieme
+{
+	background-color: blue;
+}
+.quatrieme
+{
+	background-color: green;
+}
+.cinquieme
+{
+	background-color: yellow;
+}
+.sixieme
+{
+	background-color: purple;
+}
+img
+{
+	width:auto;
+	height:200px;
+	margin:auto;
+}
